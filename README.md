@@ -13,7 +13,7 @@ This has two modes:
 Last update 6/29/17 - coalesce frequency change activities into one function, misc cleanups pre-blog
 
 User controls:
-a) rotary encoder changes the frequency by 1 kHz increments
+a) rotary encoder changes the frequency by 10 kHz increments
 b) button changes the mode
 c) button changes the frequency band
 
