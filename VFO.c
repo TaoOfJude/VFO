@@ -1,13 +1,5 @@
 /* ********* DDS 9850 VFO  *********
 
-This is the Arduino program to control the evaluation board for an AD9850 chip.
-Purpose: The unit is being used as a VFO for Ham radio vintage equipment.
-Why?  It is difficult to find vintage stable VFOs, especially those that have a frequency offset.
-
-This has two modes:
-1 - Ham band VFO, 20 to 160 meters for use in vintage equipment
-2 - Ham band VFO for Central Electronics 20A exciter (frequencies are different than resultant frequencies)
-
 Last update 6/29/17 - coalesce frequency change activities into one function, misc cleanups pre-blog
 
 Use: encoder to select frequency, 20 meters, 14.000 mHz defaults.  Press encloder to cycle through band changes.
