@@ -9,7 +9,7 @@ This has two modes:
 1 - Ham band VFO, 20 to 160 meters for use in vintage equipment
 2 - Ham band VFO for Central Electronics 20A exciter (frequencies are different than resultant frequencies)
 
-Last update 6/29/17 - coalesce frequency change activities into one function, misc cleanups pre-blog
+Last update 3/29/17 - coalesce frequency change activities into one function, misc cleanups pre-blog
 
 User controls:
 a) rotary encoder changes the frequency by 10 kHz increments
