@@ -1,6 +1,6 @@
 /* ********* DDS 9850 VFO  *********
 
-Last update 6/29/17 - coalesce frequency change activities into one function, misc cleanups pre-blog
+Last update 3/22/19 - coalesce frequency change activities into one function, misc cleanups pre-blog
 
 Use: encoder to select frequency, 20 meters, 14.000 mHz defaults.  Press encloder to cycle through band changes.
 ************************************ */
