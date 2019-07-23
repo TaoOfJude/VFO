@@ -4,7 +4,6 @@ Variable Frequency Oscillator for 1.0 - 30.0 mHz using Arduino to control the AD
 This is the Arduino program to control an evaluation board with an AD9850 chip.
 Purpose: The unit is being used as a VFO for a vintage Central Electronics 20A exciter.
 Why?  - There are no VFOs with a 9 mHz offset available
-      - I wanted to gain experience with digital electronics
 
 This has two modes:
 1 - Ham band VFO, 20 to 160 meters for use in vintage equipment
